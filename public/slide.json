@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Welcome to Flavor Haven",
+    "subtitle": "Discover a World of Flavor",
+    "description": "Experience the finest dining with a variety of exquisite dishes crafted to delight your taste buds.",
+    "image": [
+      "https://i.postimg.cc/GhhypCT5/image.png",
+      "https://i.postimg.cc/T12phV1D/image.png",
+      "https://i.postimg.cc/T2QKF4Nq/image.png",
+      "https://i.postimg.cc/zGhXzt7Q/image.png"
+    ],
+    "buttonText": "Discover More",
+    "buttonLink": "/shop"
+  },
+  {
+    "title": "Meet Our Expert Chefs",
+    "subtitle": "Masters of Culinary Arts",
+    "description": "Our chefs bring passion and expertise to every dish, ensuring an unforgettable dining experience.",
+    "image": [
+      "https://i.postimg.cc/c17Yv1St/image.png",
+      "https://i.postimg.cc/SNy9C0ST/image.png",
+      "https://i.postimg.cc/Kc5kZ9Pn/image.png",
+      "https://i.postimg.cc/2Sg3HgYf/image.png"
+    ],
+    "buttonText": "Meet the Team",
+    "buttonLink": "/chefs"
+  },
+  {
+    "title": "Breakfast Specials Menu",
+    "subtitle": "Start Your Day Right",
+    "description": "Enjoy our delightful breakfast menu featuring smoked salmon bagels and other morning favorites.",
+    "image": [
+      "https://i.postimg.cc/GhsWFfXD/image.jpg",
+      "https://i.postimg.cc/wMnSK5j3/image.jpg",
+      "https://i.postimg.cc/MTPC5Jk7/image.jpg",
+      "https://i.postimg.cc/nrX6wSZ6/image.jpg"
+    ],
+    "buttonText": "View Menu",
+    "buttonLink": "/menu"
+  },
+  {
+    "title": "Restaurant Gallery",
+    "subtitle": "A Glimpse of Our Ambiance",
+    "description": "Explore our gallery showcasing the elegant interiors, delightful dishes, and memorable moments at our restaurant.",
+    "image": [
+      "https://i.postimg.cc/DfcgtPmN/image.jpg",
+      "https://i.postimg.cc/QxxbsKTd/image.jpg",
+      "https://i.postimg.cc/WzSwgTQV/image.jpg",
+      "https://i.postimg.cc/WbW74pG6/image.jpg"
+    ],
+    "buttonText": "View Gallery",
+    "buttonLink": "/gallery"
+  }
+]

@@ -1,0 +1,1023 @@
+[
+  {
+    "name": "Smoked Salmon Bagel",
+    "description": "Toasted bagel with cream cheese, smoked salmon, capers, and red onion.",
+    "price": 12.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Toasted bagel topped with smoked salmon and cream cheese",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Sea Food",
+    "menuType": "Breakfast",
+    "rating": 4.7,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["healthy", "premium"],
+    "ingredients": [
+      "bagel",
+      "smoked salmon",
+      "cream cheese",
+      "capers",
+      "red onion"
+    ],
+    "allergens": ["gluten", "dairy", "fish"],
+    "reviews": [
+      {
+        "user": "AlexG",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-15T08:30:00Z",
+        "comment": "Perfect breakfast!"
+      },
+      {
+        "user": "MayaS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-10T09:00:00Z",
+        "comment": "Loved the flavors, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "name": "Vegetarian Omelette",
+    "description": "Fluffy omelette with spinach, mushrooms, tomatoes, and cheddar cheese.",
+    "price": 9.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Fluffy omelette with vegetables and cheese",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Vegetarian",
+    "menuType": "Breakfast",
+    "rating": 4.5,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["healthy", "gluten-free"],
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "mushrooms",
+      "tomatoes",
+      "cheddar cheese"
+    ],
+    "allergens": ["eggs", "dairy"],
+    "reviews": [
+      {
+        "user": "SarahM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-01T09:15:00Z",
+        "comment": "Fresh and tasty!"
+      },
+      {
+        "user": "OmarK",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-20T08:45:00Z",
+        "comment": "Great veggie mix!"
+      }
+    ]
+  },
+  {
+    "name": "Chinese Breakfast Congee",
+    "description": "Warm rice porridge with green onions, ginger, and century egg.",
+    "price": 7.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Bowl of rice porridge with green onions",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Chinese",
+    "menuType": "Breakfast",
+    "rating": 4.3,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["comfort food", "vegan-option"],
+    "ingredients": ["rice", "green onions", "ginger", "century egg"],
+    "allergens": ["eggs"],
+    "reviews": [
+      {
+        "user": "LiW",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-01-20T07:45:00Z",
+        "comment": "Authentic and soothing."
+      },
+      {
+        "user": "PriyaD",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-15T08:00:00Z",
+        "comment": "Nice, but century egg is an acquired taste."
+      }
+    ]
+  },
+  {
+    "name": "Bacon and Egg Muffin",
+    "description": "Toasted English muffin with crispy bacon, fried egg, and cheddar.",
+    "price": 6.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "English muffin with bacon and egg",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Fast Food",
+    "menuType": "Breakfast",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["quick", "hearty"],
+    "ingredients": ["English muffin", "bacon", "egg", "cheddar cheese"],
+    "allergens": ["gluten", "eggs", "dairy"],
+    "reviews": [
+      {
+        "user": "MikeT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-25T08:00:00Z",
+        "comment": "Great on-the-go breakfast!"
+      },
+      {
+        "user": "AishaR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-05-10T08:30:00Z",
+        "comment": "Tasty but needs more sauce."
+      }
+    ]
+  },
+
+  {
+    "name": "Grilled Salmon Salad",
+    "description": "Fresh greens with grilled salmon, avocado, cucumber, and lemon vinaigrette.",
+    "price": 14.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Salad with grilled salmon and avocado",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Sea Food",
+    "menuType": "Lunch",
+    "rating": 4.8,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["healthy", "gluten-free"],
+    "ingredients": [
+      "salmon",
+      "mixed greens",
+      "avocado",
+      "cucumber",
+      "lemon vinaigrette"
+    ],
+    "allergens": ["fish"],
+    "reviews": [
+      {
+        "user": "EmmaL",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-10T12:30:00Z",
+        "comment": "Light and delicious!"
+      },
+      {
+        "user": "LiamP",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-05T13:00:00Z",
+        "comment": "Great, but could use more dressing."
+      }
+    ]
+  },
+  {
+    "name": "Vegetarian Buddha Bowl",
+    "description": "Quinoa, roasted vegetables, hummus, and tahini dressing.",
+    "price": 11.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Buddha bowl with quinoa and vegetables",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Vegetarian",
+    "menuType": "Lunch",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["vegan", "healthy"],
+    "ingredients": ["quinoa", "roasted vegetables", "hummus", "tahini"],
+    "allergens": ["sesame"],
+    "reviews": [
+      {
+        "user": "RachelK",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-18T13:00:00Z",
+        "comment": "So colorful and filling!"
+      },
+      {
+        "user": "NoahT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-25T12:45:00Z",
+        "comment": "Perfect healthy lunch!"
+      }
+    ]
+  },
+  {
+    "name": "Beef Stir-Fry",
+    "description": "Tender beef strips with bell peppers, broccoli, and soy-ginger sauce.",
+    "price": 13.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Beef stir-fry with vegetables",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Chinese",
+    "menuType": "Lunch",
+    "rating": 4.4,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["savory", "quick"],
+    "ingredients": ["beef", "bell peppers", "broccoli", "soy sauce", "ginger"],
+    "allergens": ["soy"],
+    "reviews": [
+      {
+        "user": "ChenH",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-01-30T12:45:00Z",
+        "comment": "Really flavorful!"
+      },
+      {
+        "user": "SofiaM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-20T13:15:00Z",
+        "comment": "Good, but a bit salty."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Parmesan Sandwich",
+    "description": "Breaded chicken breast with marinara sauce and mozzarella on ciabatta.",
+    "price": 10.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Chicken parmesan sandwich on ciabatta",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Italian Food",
+    "menuType": "Lunch",
+    "rating": 4.7,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["hearty", "classic"],
+    "ingredients": [
+      "chicken breast",
+      "marinara sauce",
+      "mozzarella",
+      "ciabatta"
+    ],
+    "allergens": ["gluten", "dairy"],
+    "reviews": [
+      {
+        "user": "LuigiP",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-05T13:15:00Z",
+        "comment": "Tastes like Italy!"
+      },
+      {
+        "user": "ZaraK",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-15T12:30:00Z",
+        "comment": "Delicious, but bread was a bit tough."
+      }
+    ]
+  },
+
+  {
+    "name": "Grilled Lobster Tail",
+    "description": "Succulent lobsterirono lobster tail with garlic butter and lemon zest, served with asparagus.",
+    "price": 29.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Grilled lobster tail with asparagus",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Sea Food",
+    "menuType": "Dinner",
+    "rating": 4.9,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["premium", "seafood"],
+    "ingredients": ["lobster tail", "garlic butter", "lemon zest", "asparagus"],
+    "allergens": ["shellfish", "dairy"],
+    "reviews": [
+      {
+        "user": "SophieR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-12T19:00:00Z",
+        "comment": "Absolutely divine!"
+      },
+      {
+        "user": "EthanJ",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-05-01T19:30:00Z",
+        "comment": "Best lobster I've had!"
+      }
+    ]
+  },
+  {
+    "name": "Stuffed Bell Peppers",
+    "description": "Bell peppers stuffed with quinoa, black beans, and avocado salsa.",
+    "price": 12.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Stuffed bell peppers with quinoa",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Vegetarian",
+    "menuType": "Dinner",
+    "rating": 4.5,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["vegan", "healthy"],
+    "ingredients": [
+      "bell peppers",
+      "quinoa",
+      "black beans",
+      "avocado",
+      "salsa"
+    ],
+    "allergens": [],
+    "reviews": [
+      {
+        "user": "TaraV",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-20T18:30:00Z",
+        "comment": "Healthy and satisfying."
+      },
+      {
+        "user": "AmirS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-15T19:00:00Z",
+        "comment": "Loved the avocado salsa!"
+      }
+    ]
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",
+    "price": 15.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Spicy kung pao chicken with peanuts",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Chinese",
+    "menuType": "Dinner",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["spicy", "savory"],
+    "ingredients": [
+      "chicken",
+      "peanuts",
+      "bell peppers",
+      "chili peppers",
+      "soy sauce"
+    ],
+    "allergens": ["peanuts", "soy"],
+    "reviews": [
+      {
+        "user": "WeiL",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-08T19:15:00Z",
+        "comment": "Perfect spice level!"
+      },
+      {
+        "user": "LilaM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-05-05T19:00:00Z",
+        "comment": "Tasty but a bit too spicy."
+      }
+    ]
+  },
+  {
+    "name": "Grilled Ribeye Steak",
+    "description": "Juicy ribeye steak with rosemary, served with mashed potatoes.",
+    "price": 24.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Grilled ribeye steak with mashed potatoes",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Meat",
+    "menuType": "Dinner",
+    "rating": 4.8,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["premium", "hearty"],
+    "ingredients": ["ribeye steak", "rosemary", "mashed potatoes", "butter"],
+    "allergens": ["dairy"],
+    "reviews": [
+      {
+        "user": "JohnD",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-15T20:00:00Z",
+        "comment": "Cooked to perfection!"
+      },
+      {
+        "user": "NiaR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-05-10T19:30:00Z",
+        "comment": "Great, but potatoes were a bit dry."
+      }
+    ]
+  },
+
+  {
+    "name": "Shrimp Cocktail",
+    "description": "Chilled shrimp served with tangy cocktail sauce and lemon wedges.",
+    "price": 9.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Chilled shrimp with cocktail sauce",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Sea Food",
+    "menuType": "Starter",
+    "rating": 4.7,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["light", "classic"],
+    "ingredients": ["shrimp", "cocktail sauce", "lemon"],
+    "allergens": ["shellfish"],
+    "reviews": [
+      {
+        "user": "ClaraB",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-22T17:30:00Z",
+        "comment": "Refreshing starter!"
+      },
+      {
+        "user": "EliT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-10T17:00:00Z",
+        "comment": "Tasty, but sauce was too tangy."
+      }
+    ]
+  },
+  {
+    "name": "Caprese Salad",
+    "description": "Fresh tomatoes, mozzarella, basil, and balsamic glaze.",
+    "price": 8.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Caprese salad with tomatoes and mozzarella",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Italian Food",
+    "menuType": "Starter",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["vegetarian", "fresh"],
+    "ingredients": ["tomatoes", "mozzarella", "basil", "balsamic glaze"],
+    "allergens": ["dairy"],
+    "reviews": [
+      {
+        "user": "MariaF",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-02T17:45:00Z",
+        "comment": "Simple yet delicious."
+      },
+      {
+        "user": "YaraS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-20T17:30:00Z",
+        "comment": "Fresh and perfect!"
+      }
+    ]
+  },
+  {
+    "name": "Spring Rolls",
+    "description": "Crispy rolls filled with vegetables and served with sweet chili sauce.",
+    "price": 6.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Crispy vegetable spring rolls",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Chinese",
+    "menuType": "Starter",
+    "rating": 4.4,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["crispy", "vegan"],
+    "ingredients": ["cabbage", "carrots", "rice paper", "sweet chili sauce"],
+    "allergens": [],
+    "reviews": [
+      {
+        "user": "LingZ",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-28T17:15:00Z",
+        "comment": "Nice and crunchy!"
+      },
+      {
+        "user": "KaiM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-25T17:00:00Z",
+        "comment": "Good, but sauce could be spicier."
+      }
+    ]
+  },
+  {
+    "name": "Meat Skewers",
+    "description": "Grilled beef skewers with chimichurri sauce.",
+    "price": 10.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Grilled beef skewers with chimichurri",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Meat",
+    "menuType": "Starter",
+    "rating": 4.5,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["grilled", "savory"],
+    "ingredients": ["beef", "chimichurri sauce", "peppers"],
+    "allergens": [],
+    "reviews": [
+      {
+        "user": "CarlosM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-01T18:00:00Z",
+        "comment": "Great flavor!"
+      },
+      {
+        "user": "LeilaR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-15T17:45:00Z",
+        "comment": "Tasty, but slightly overcooked."
+      }
+    ]
+  },
+
+  {
+    "name": "Mango Smoothie",
+    "description": "Blended mango, yogurt, and honey for a refreshing drink.",
+    "price": 5.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Glass of mango smoothie",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Vegetarian",
+    "menuType": "Beverage",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["refreshing", "sweet"],
+    "ingredients": ["mango", "yogurt", "honey"],
+    "allergens": ["dairy"],
+    "reviews": [
+      {
+        "user": "NinaP",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-19T14:00:00Z",
+        "comment": "Perfect summer drink."
+      },
+      {
+        "user": "OmarL",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-25T14:30:00Z",
+        "comment": "So refreshing!"
+      }
+    ]
+  },
+  {
+    "name": "Green Tea Latte",
+    "description": "Smooth matcha green tea with steamed milk and a hint of vanilla.",
+    "price": 4.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Green tea latte with foam",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Chinese",
+    "menuType": "Beverage",
+    "rating": 4.5,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["calming", "vegan-option"],
+    "ingredients": ["matcha", "milk", "vanilla"],
+    "allergens": ["dairy"],
+    "reviews": [
+      {
+        "user": "HanaS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-03T15:00:00Z",
+        "comment": "Love the matcha flavor."
+      },
+      {
+        "user": "AriaT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-10T15:15:00Z",
+        "comment": "Smooth and delicious!"
+      }
+    ]
+  },
+  {
+    "name": "Italian Lemon Soda",
+    "description": "Sparkling lemon soda with a touch of mint.",
+    "price": 3.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Glass of lemon soda with mint",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Italian Food",
+    "menuType": "Beverage",
+    "rating": 4.4,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["refreshing", "citrus"],
+    "ingredients": ["lemon", "sparkling water", "mint"],
+    "allergens": [],
+    "reviews": [
+      {
+        "user": "GiuliaR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-02-27T14:30:00Z",
+        "comment": "Zesty and refreshing!"
+      },
+      {
+        "user": "FinnP",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-20T14:00:00Z",
+        "comment": "Nice, but could use more mint."
+      }
+    ]
+  },
+  {
+    "name": "Cola Float",
+    "description": "Classic cola with a scoop of vanilla ice cream.",
+    "price": 4.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Cola float with vanilla ice cream",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Fast Food",
+    "menuType": "Beverage",
+    "rating": 4.3,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["sweet", "classic"],
+    "ingredients": ["cola", "vanilla ice cream"],
+    "allergens": ["dairy"],
+    "reviews": [
+      {
+        "user": "TomH",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-06T15:15:00Z",
+        "comment": "Nostalgic treat!"
+      },
+      {
+        "user": "ZoeL",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-25T15:00:00Z",
+        "comment": "Love this classic!"
+      }
+    ]
+  },
+
+  {
+    "name": "Pinot Grigio",
+    "description": "Crisp Italian white wine with notes of apple and pear.",
+    "price": 19.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Glass of Pinot Grigio white wine",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Italian Food",
+    "menuType": "Wines",
+    "rating": 4.7,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["white wine", "crisp"],
+    "ingredients": ["grapes"],
+    "allergens": ["sulfites"],
+    "reviews": [
+      {
+        "user": "LucaM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-09T20:30:00Z",
+        "comment": "Pairs perfectly with seafood."
+      },
+      {
+        "user": "AvaT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-05-01T20:00:00Z",
+        "comment": "Crisp and refreshing."
+      }
+    ]
+  },
+  {
+    "name": "Merlot",
+    "description": "Smooth red wine with plum and blackberry flavors.",
+    "price": 21.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Glass of Merlot red wine",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Meat",
+    "menuType": "Wines",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["red wine", "smooth"],
+    "ingredients": ["grapes"],
+    "allergens": ["sulfites"],
+    "reviews": [
+      {
+        "user": "AnnaW",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-30T20:00:00Z",
+        "comment": "Great with steak."
+      },
+      {
+        "user": "IbrahimS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-20T20:15:00Z",
+        "comment": "Smooth and rich!"
+      }
+    ]
+  },
+  {
+    "name": "Chardonnay",
+    "description": "Buttery white wine with hints of oak and vanilla.",
+    "price": 18.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Glass of Chardonnay white wine",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Sea Food",
+    "menuType": "Wines",
+    "rating": 4.5,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["white wine", "buttery"],
+    "ingredients": ["grapes"],
+    "allergens": ["sulfites"],
+    "reviews": [
+      {
+        "user": "EllaT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-04T19:45:00Z",
+        "comment": "Smooth and rich."
+      },
+      {
+        "user": "RaviK",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-15T20:00:00Z",
+        "comment": "Loved the oak notes!"
+      }
+    ]
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "description": "Bold red wine with dark fruit and spice notes.",
+    "price": 22.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Glass of Cabernet Sauvignon red wine",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Meat",
+    "menuType": "Wines",
+    "rating": 4.8,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["red wine", "bold"],
+    "ingredients": ["grapes"],
+    "allergens": ["sulfites"],
+    "reviews": [
+      {
+        "user": "MarkS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-07T20:15:00Z",
+        "comment": "Fantastic with dinner."
+      },
+      {
+        "user": "SanaR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-05-10T20:30:00Z",
+        "comment": "Bold and tasty!"
+      }
+    ]
+  },
+
+  {
+    "name": "Calamari Fritti",
+    "description": "Crispy fried calamari with marinara dipping sauce.",
+    "price": 10.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Plate of crispy fried calamari",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Sea Food",
+    "menuType": "Appetizer",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["crispy", "seafood"],
+    "ingredients": ["calamari", "flour", "marinara sauce"],
+    "allergens": ["gluten", "shellfish"],
+    "reviews": [
+      {
+        "user": "VeraL",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-29T17:00:00Z",
+        "comment": "Crispy and delicious!"
+      },
+      {
+        "user": "AishaK",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-25T17:30:00Z",
+        "comment": "Great, but sauce could be spicier."
+      }
+    ]
+  },
+  {
+    "name": "Mushroom Bruschetta",
+    "description": "Toasted bread topped with sautéed mushrooms and garlic.",
+    "price": 7.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Bruschetta with sautéed mushrooms",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Vegetarian",
+    "menuType": "Appetizer",
+    "rating": 4.4,
+    "isAvailable": true,
+    "featured": false,
+    "tags": ["vegetarian", "savory"],
+    "ingredients": ["bread", "mushrooms", "garlic", "olive oil"],
+    "allergens": ["gluten"],
+    "reviews": [
+      {
+        "user": "LilyC",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-03-03T17:30:00Z",
+        "comment": "Great appetizer!"
+      },
+      {
+        "user": "RohanM",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-04-15T17:15:00Z",
+        "comment": "Loved the garlic flavor!"
+      }
+    ]
+  },
+  {
+    "name": "Dim Sum Platter",
+    "description": "Assorted steamed dumplings with soy dipping sauce.",
+    "price": 9.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Assorted dim sum dumplings",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Chinese",
+    "menuType": "Appetizer",
+    "rating": 4.5,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["steamed", "savory"],
+    "ingredients": ["dumplings", "pork", "shrimp", "soy sauce"],
+    "allergens": ["shellfish", "soy"],
+    "reviews": [
+      {
+        "user": "JingX",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-05T17:15:00Z",
+        "comment": "Authentic and tasty."
+      },
+      {
+        "user": "MiraS",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-20T17:00:00Z",
+        "comment": "Great variety!"
+      }
+    ]
+  },
+  {
+    "name": "Mini Sliders",
+    "description": "Bite-sized beef burgers with cheddar and pickles.",
+    "price": 8.99,
+    "menuImg": "https://www.svgrepo.com/show/518897/recipe-keeper.svg",
+    "imageAltText": "Mini beef sliders with cheddar",
+    "imgGallery": [
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg",
+      "https://www.svgrepo.com/show/482347/hamburger-7.svg"
+    ],
+    "category": "Fast Food",
+    "menuType": "Appetizer",
+    "rating": 4.6,
+    "isAvailable": true,
+    "featured": true,
+    "tags": ["hearty", "quick"],
+    "ingredients": ["beef", "cheddar", "pickles", "buns"],
+    "allergens": ["gluten", "dairy"],
+    "reviews": [
+      {
+        "user": "JakeR",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 5,
+        "postedAt": "2025-03-10T17:45:00Z",
+        "comment": "Perfect little bites!"
+      },
+      {
+        "user": "LaylaT",
+        "userImg": "https://www.svgrepo.com/show/529293/user.svg",
+        "rating": 4,
+        "postedAt": "2025-04-25T17:30:00Z",
+        "comment": "Tasty, but buns were a bit dry."
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+    { "name": "Sea Food", "slug": "sea-food" },
+    { "name": "Vegetarian", "slug": "vegetarian" },
+    { "name": "Chinese", "slug": "chinese" },
+    { "name": "Meat", "slug": "meat" },
+    { "name": "Italian Food", "slug": "italian-food" },
+    { "name": "Fast Food", "slug": "fast-food" }
+  ]
+
+  [
+    { "name": "Breakfast", "slug": "breakfast", "order": 1 },
+    { "name": "Lunch", "slug": "lunch", "order": 2 },
+    { "name": "Dinner", "slug": "dinner", "order": 3 },
+    { "name": "Starter", "slug": "starter", "order": 4 },
+    { "name": "Beverage", "slug": "beverage", "order": 5 },
+    { "name": "Wines", "slug": "wines", "order": 6 },
+    { "name": "Appetizer", "slug": "appetizer", "order": 7 }
+  ]
+ 
